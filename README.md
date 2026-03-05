@@ -16,6 +16,14 @@ I like using data to understand real-world problems and find insights that help 
 </p>
 
 ---
+
+## 📚 Currently Learning
+
+* Data visualization best practices
+* Business analytics workflows
+* Machine learning basics for analytics
+
+---
 ## 🚀 Featured Projects
 
 ### 🎧 Spotify Popularity Analysis
@@ -45,14 +53,6 @@ Tools: Python, Pandas, Matplotlib, Scikit-learn
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-* Data visualization best practices
-* Business analytics workflows
-* Machine learning basics for analytics
 
 ---
 
