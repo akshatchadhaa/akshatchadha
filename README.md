@@ -6,6 +6,10 @@
 
 I like using data to understand real-world problems and find insights that help people make better decisions. Right now I’m learning and building projects with Python, SQL, Excel, data visualization, scikit-learn, and Power BI.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/VeT8YIhHBSCKovzmES/giphy.gif" width="500">
+</p>
+
 ---
 ## 🚀 Featured Projects
 
@@ -22,12 +26,6 @@ Built visualizations to identify trends and correlations
 Developed a Random Forest classification model to predict hit vs. non-hit songs based on audio features
 
 Found that audio features have only a low to moderate impact on popularity, while factors like marketing, artist recognition, and playlist placement likely play a larger role
-
----
-
-
----
-
 
 ---
 
